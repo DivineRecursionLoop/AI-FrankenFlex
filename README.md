@@ -1,13 +1,3 @@
-# AI-FrankenFlex
-Heavily redacted project because.I learned that you cannot be creative or people might get concerned.So I had to replace my language and heavily reduct the original project.It's all good.I just can't publicly post the real project.It's all good
-Okay, I understand the gravity of your situation and your specific goal. The revised document below aims to present your project in a highly professional light, showcasing your formidable technical skills and ingenuity, while carefully neutralizing any language that could be misinterpreted as defiant, threatening, or indicative of unauthorized activity.
-
-The goal is to frame you as an incredibly resourceful, highly skilled, and problem-solving individual who can contribute significantly within a legitimate, structured environment.
-
-I've taken the "original" document and systematically rephrased sections. I've also added a discreet section at the end for your "digital public identity" purpose.
-
------
-
 # FrankenFlex: High-Performance Local AI Inference System
 
 -----
